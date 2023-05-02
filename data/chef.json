@@ -1,0 +1,57 @@
+{
+  "chefs": [
+    {
+      "name": "Gordon Ramsay",
+      "picture": "https://example.com/gordon-ramsay.jpg",
+      "years_of_experience": 35, 
+      "likes": 23479
+    },
+    {
+      "name": "Massimo Bottura",
+      "picture": "https://example.com/massimo-bottura.jpg",
+      "years_of_experience": 35, 
+      "likes": 47364
+    },
+    {
+      "name": "Thomas Keller",
+      "picture": "https://example.com/thomas-keller.jpg",
+      "years_of_experience": 40, 
+      "likes": 31964
+    },
+    {
+      "name": "Daniel Humm",
+      "picture": "https://example.com/daniel-humm.jpg",
+      "years_of_experience": 20, 
+      "likes": 18376
+    },
+    {
+      "name": "Joan Roca",
+      "picture": "https://example.com/joan-roca.jpg",
+      "years_of_experience": 25, 
+      "likes": 30801
+    },
+    {
+      "name": "Vicki Zhao",
+      "picture": "https://example.com/vicki-zhao.jpg",
+      "years_of_experience": 20, 
+      "likes": 17621
+    },
+    {
+      "name": "Enrique Olvera",
+      "picture": "https://example.com/enrique-olvera.jpg",
+      "years_of_experience": 20, 
+      "likes": 23492
+    },
+    {
+      "name": "Ana Ros",
+      "picture": "https://example.com/ana-ros.jpg",
+      "years_of_experience": 20, 
+      "likes": 25089
+    },
+    {
+      "name": "Yannick Alleno",
+      "picture": "https://example.com/yannick-alleno.jpg",
+      "years_of_experience": 30, 
+      "likes": 37564
+    }]
+}

@@ -1,0 +1,86 @@
+{
+    "recipes": [
+      {
+        "image": "https://assets.bonappetit.com/photos/5d4ddd602c815a00080f9771/1:1/w_1920,c_limit/BA-0919-Creamy-Pasta-Crispy-Mushroom-Playbook.jpg",
+        "name": "Creamy Mushroom Pasta",
+        "ingredients": [
+          "1 pound spaghetti",
+          "1/4 cup unsalted butter",
+          "1 onion, diced",
+          "3 cloves garlic, minced",
+          "16 ounces mushrooms, sliced",
+          "1 cup heavy cream",
+          "1/2 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+          "Cook spaghetti according to package instructions.",
+          "Melt butter in a large skillet over medium heat.",
+          "Add onion and garlic, and cook until soft and fragrant.",
+          "Add mushrooms and cook until they release their liquid and are tender.",
+          "Stir in heavy cream and Parmesan cheese, and cook until sauce thickens.",
+          "Add cooked spaghetti to the skillet and toss to coat with sauce.",
+          "Season with salt and pepper to taste.",
+          "Serve hot."
+        ],
+        "rating": 4.5
+      },
+      {
+        "image": "https://www.jocooks.com/wp-content/uploads/2013/10/roasted-chicken-and-vegetables-1-9-730x913.jpg",
+        "name": "Baked Chicken and Vegetables",
+        "ingredients": [
+          "4 chicken breasts",
+          "1 large potato, peeled and diced",
+          "2 carrots, peeled and sliced",
+          "1 zucchini, sliced",
+          "1 red bell pepper, sliced",
+          "1/4 cup olive oil",
+          "2 tablespoons dried oregano",
+          "1 tablespoon garlic powder",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+          "Preheat oven to 375°F.",
+          "Place chicken breasts in a baking dish.",
+          "Arrange diced potatoes, sliced carrots, zucchini, and red bell pepper around chicken.",
+          "Drizzle olive oil over chicken and vegetables.",
+          "Sprinkle with oregano, garlic powder, salt, and pepper.",
+          "Bake for 45-50 minutes, or until chicken is cooked through and vegetables are tender.",
+          "Serve hot."
+        ],
+        "rating": 4.2
+      },
+
+
+      {
+        "image": "https://natashaskitchen.com/wp-content/uploads/2019/08/Beef-and-Broccoli-2.jpg",
+        "name": "Beef and Broccoli Stir-Fry",
+        "ingredients": [
+          "1 pound flank steak, sliced thinly",
+          "2 cups broccoli florets",
+          "1/2 cup sliced carrots",
+          "1/2 cup sliced red bell pepper",
+          "1/2 cup sliced onion",
+          "3 cloves garlic, minced",
+          "2 tablespoons vegetable oil",
+          "1/4 cup soy sauce",
+          "2 tablespoons honey",
+          "1 tablespoon cornstarch",
+          "1/4 cup water",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": [
+            "Heat vegetable oil in a large skillet over high heat.",
+          "Add sliced beef and stir-fry until browned and cooked through.",
+          "Remove beef from skillet and set aside.",
+          "Add broccoli, carrots, red bell pepper, onion, and garlic to the skillet.",
+          "Stir-fry until vegetables are tender-crisp.",
+          "In a small bowl, whisk together soy sauce, honey, cornstarch, water, salt, and pepper.",
+          "Add cooked beef back to the skillet, and pour the sauce over the beef and vegetables.",
+          "Stir-fry for another 2-3 minutes, or until sauce has thickened."
+          ],
+          "rating": 4.2
+        }
+
+      ]} 
+  
