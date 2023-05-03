@@ -1,6 +1,7 @@
 {
     "recipes": [
       {
+        "id": 1,
         "image": "https://assets.bonappetit.com/photos/5d4ddd602c815a00080f9771/1:1/w_1920,c_limit/BA-0919-Creamy-Pasta-Crispy-Mushroom-Playbook.jpg",
         "name": "Creamy Mushroom Pasta",
         "ingredients": [
@@ -26,6 +27,7 @@
         "rating": 4.5
       },
       {
+        "id": 2,
         "image": "https://www.jocooks.com/wp-content/uploads/2013/10/roasted-chicken-and-vegetables-1-9-730x913.jpg",
         "name": "Baked Chicken and Vegetables",
         "ingredients": [
@@ -53,6 +55,7 @@
 
 
       {
+        "id": 3,
         "image": "https://natashaskitchen.com/wp-content/uploads/2019/08/Beef-and-Broccoli-2.jpg",
         "name": "Beef and Broccoli Stir-Fry",
         "ingredients": [
