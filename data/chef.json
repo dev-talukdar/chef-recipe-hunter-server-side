@@ -2,35 +2,35 @@
     {
       "id": 1,
       "name": "Gordon Ramsay",
-      "picture": "https://example.com/gordon-ramsay.jpg",
+      "picture": "https://media.timeout.com/images/105854659/image.jpg",
       "years_of_experience": 35, 
       "likes": 23479
     },
     {
       "id": 2,
       "name": "Massimo Bottura",
-      "picture": "https://example.com/massimo-bottura.jpg",
+      "picture": "https://www.paolalenti.it/wp-content/uploads/2020/11/massimo-bottura-angelo-dal-bo.jpg",
       "years_of_experience": 35, 
       "likes": 47364
     },
     {
       "id": 3,
       "name": "Thomas Keller",
-      "picture": "https://example.com/thomas-keller.jpg",
+      "picture": "https://www.petermillar.com/on/demandware.static/-/Sites-PM-Library/default/dw2b306358/journal/artisans-of-craft/thomas-keller/images/thomas-keller-2-m.jpg",
       "years_of_experience": 40, 
       "likes": 31964
     },
     {
       "id": 4,
       "name": "Daniel Humm",
-      "picture": "https://example.com/daniel-humm.jpg",
+      "picture": "https://hips.hearstapps.com/esquire/assets/17/07/1487014973-lead-daniel.jpg",
       "years_of_experience": 20, 
       "likes": 18376
     },
     {
       "id": 5,
       "name": "Joan Roca",
-      "picture": "https://example.com/joan-roca.jpg",
+      "picture": "https://www.elnacional.cat/uploads/s1/79/80/18/1/joan-roca-celler-can-roca-gastronomia-acn.jpeg",
       "years_of_experience": 25, 
       "likes": 30801
     },
